@@ -53,3 +53,9 @@ Users can input listing information and the application will predict the estimat
 ## 🚀 Live Demo
 
 Streamlit App URL:[Open the Streamlit App](https://airbnb-ml-project-b8ugcutf9jtz58wx6bp95o.streamlit.app)
+
+Add project README
+Update README with project details
+Improve Streamlit UI
+Fix deployment error
+Update project documentation
