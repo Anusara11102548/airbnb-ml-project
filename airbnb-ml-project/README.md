@@ -52,4 +52,4 @@ Users can input listing information and the application will predict the estimat
 
 ## 🚀 Live Demo
 
-Streamlit App URL:
+Streamlit App URL:[Open the Streamlit App]([https://airbnb-price-predictor.streamlit.app](https://airbnb-ml-project-b8ugcutf9jtz58wx6bp95o.streamlit.app))
