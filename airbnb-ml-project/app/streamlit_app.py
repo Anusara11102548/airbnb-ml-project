@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # โหลดโมเดล
-model = joblib.load("../model/price_model.pkl")
+model = joblib.load("model/price_model.pkl")
 
 # ส่วนหัว
 st.markdown(
